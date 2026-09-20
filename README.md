@@ -602,3 +602,7 @@ Most importantly:
 > Gemini does not scan your entire bucket during every query.
 > 
 > The Data Store indexes logs once, retrieves only relevant chunks, and sends small contextual data to Gemini for reasoning.
+
+## Development and review
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks, configuration handling, and the review workflow.
